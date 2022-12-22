@@ -1,1 +1,1 @@
-This is my first Tamagotchi javascript project.
+This is my first Tamagotchi javascript project. I will be using this to improve and evalute my Javascript testing ability.
